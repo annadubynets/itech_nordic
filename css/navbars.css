@@ -1,0 +1,22 @@
+.navbar-nav .nav-item .nav-link {
+  font-family: "Nunito-Regular", sans-serif;
+  font-size: 16px;
+  color: #1E1C1C;
+  line-height: 18px;
+  letter-spacing: 0.2px;
+  margin: 30px 16px;
+  padding: 0;
+  display: inline-block;
+  text-transform: uppercase;
+}
+@media screen and (max-width: 992px) {
+  .navbar-nav .nav-item .nav-link {
+    margin: 14px 16px;
+  }
+}
+
+.navbar-nav .nav-item .nav-link:hover, .navbar-nav .nav-item .nav-link:focus {
+  color: #3D81A8;
+}
+
+/*# sourceMappingURL=navbars.css.map */

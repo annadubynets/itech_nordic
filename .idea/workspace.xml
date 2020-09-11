@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b38e1c37-e4ec-411e-adee-6ea473312642" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/css/backgrounds.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/navbars.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.carousel.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/owl.theme.default.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/text.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Bold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Bold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-Regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-SemiBold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-SemiBold.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-SemiBold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-SemiBold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fonts/Nunito-SemiBold.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/owl.carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/owl.carousel.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hMCW54PkMKqO2DqUdQLU4gVAoa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/fonts" />
+      <recent name="$PROJECT_DIR$/js" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b38e1c37-e4ec-411e-adee-6ea473312642" name="Default Changelist" comment="" />
+      <created>1599811603520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599811603520</updated>
+      <workItem from="1599811607200" duration="92000" />
+      <workItem from="1599811727961" duration="85000" />
+      <workItem from="1599811843920" duration="195000" />
+      <workItem from="1599812058837" duration="673000" />
+      <workItem from="1599812811530" duration="160000" />
+      <workItem from="1599813002407" duration="83000" />
+      <workItem from="1599813097342" duration="11000" />
+      <workItem from="1599813136202" duration="28000" />
+      <workItem from="1599813190622" duration="54000" />
+      <workItem from="1599813270453" duration="161000" />
+      <workItem from="1599813445387" duration="35000" />
+      <workItem from="1599813498778" duration="102000" />
+      <workItem from="1599813627662" duration="208000" />
+      <workItem from="1599813856063" duration="1134000" />
+      <workItem from="1599815061245" duration="233000" />
+      <workItem from="1599815578607" duration="258000" />
+      <workItem from="1599815935394" duration="121000" />
+      <workItem from="1599816066893" duration="314000" />
+      <workItem from="1599816492810" duration="10000" />
+      <workItem from="1599816549070" duration="3135000" />
+      <workItem from="1599836103087" duration="44000" />
+      <workItem from="1599836175271" duration="87000" />
+      <workItem from="1599836273008" duration="424000" />
+      <workItem from="1599842027878" duration="33000" />
+      <workItem from="1599842084682" duration="204000" />
+      <workItem from="1599842332868" duration="539000" />
+      <workItem from="1599846064287" duration="713000" />
+      <workItem from="1599846905548" duration="605000" />
+      <workItem from="1599847594067" duration="301000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="226" key="EditFileWatcherDialog" timestamp="1599811955354">
+      <screen x="40" y="23" width="1400" height="877" />
+    </state>
+    <state x="261" y="226" key="EditFileWatcherDialog/40.23.1400.877@40.23.1400.877" timestamp="1599811955354" />
+    <state x="342" y="203" width="670" height="676" key="search.everywhere.popup" timestamp="1599841706190">
+      <screen x="42" y="23" width="1398" height="877" />
+    </state>
+    <state x="342" y="203" width="670" height="676" key="search.everywhere.popup/42.23.1398.877@42.23.1398.877" timestamp="1599841706190" />
+  </component>
+</project>

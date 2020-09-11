@@ -1,0 +1,22 @@
+@import "variables";
+
+.text-white {
+  color: $white-color!important;
+}
+
+.text-primary {
+  color: $blue-color!important;
+}
+
+.text-secondary {
+  color: $gray-light-color!important;
+}
+
+.text-warning {
+  color: $gray-color!important;
+}
+
+.text-dark {
+  color: $black-color!important;
+}
+

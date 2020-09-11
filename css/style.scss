@@ -1,0 +1,45 @@
+@import "../fontawesome-free-5.14.0-web/css/all.css";
+@import "bootstrap.min.css";
+@import "owl.carousel.min.css";
+@import "owl.theme.default.css";
+@import "typography";
+@import "variables";
+@import "mixins";
+@import "backgrounds";
+@import "text";
+@import "navbars";
+@import "buttons";
+
+.main-section {
+  background-image: url("../images/main_picture.svg");
+  background-repeat: no-repeat;
+  background-position: center;
+  padding: 220px 0px;
+}
+
+.form-group input {
+  width: 100%;
+  border: none;
+  border-bottom: 1px solid $gray-color;
+  background: transparent;
+  padding: 8px 10px;
+  margin-bottom: 35px;color: $gray-color;
+  border-radius: 0px;
+}
+
+footer {
+  .line-lg {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 1px;
+    width: 100%;
+    background-color: $gray-color;
+    bottom: 35px;
+    left: 0;
+  }
+  a {
+    color: $gray-color;
+    margin-right: 18px;
+  }
+}

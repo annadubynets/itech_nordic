@@ -1,0 +1,11 @@
+@mixin max-screen($number) {
+  @media screen and (max-width: $number) {
+    @content;
+  }
+}
+
+@mixin min-width($number) {
+  @media screen and (min-width: $number) {
+    @content;
+  }
+}
