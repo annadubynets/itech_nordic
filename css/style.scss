@@ -17,6 +17,22 @@
   padding: 220px 0px;
 }
 
+
+.dropdown-menu {
+  @include max-screen($lg-screen){
+    border: none;
+  }
+}
+
+.equal, .equal > div[class*=col-] {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  flex: 1 0 auto;
+}
+
 .form-group input {
   width: 100%;
   border: none;
