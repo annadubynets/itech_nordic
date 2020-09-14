@@ -11,10 +11,12 @@
 @import "buttons";
 
 .main-section {
-  background-image: url("../images/main_picture.svg");
+  background-image: url("../images/main.png");
   background-repeat: no-repeat;
-  background-position: center;
-  padding: 220px 0px;
+  padding: 160px 0px 220px;
+  @include max-screen($md-screen){
+    padding: 120px 0px;
+  }
 }
 
 
