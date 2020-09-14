@@ -145,6 +145,10 @@ p {
   }
 }
 
+.card {
+  border: none;
+}
+
 .equal, .equal > div[class*=col-] {
   display: -webkit-box;
   display: -moz-box;
