@@ -113,6 +113,7 @@ p {
   border: none;
   text-align: center;
   padding: 16px 36px;
+  margin: 1px;
 }
 
 .btn-primary:active, .btn-primary:focus, .btn-primary:hover {
@@ -121,6 +122,7 @@ p {
   color: #3D81A8 !important;
   outline: none !important;
   box-shadow: 0px 15px 18px rgba(87, 74, 151, 0.21);
+  margin: 0px;
 }
 
 .btn:active, .btn:focus {
