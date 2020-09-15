@@ -10,6 +10,22 @@
 @import "navbars";
 @import "buttons";
 
+.site-header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 100%;
+  z-index: 1;
+  display: block;
+  transition: 20ms all ease-in-out;
+}
+
+.site-header.header-fixed {
+  position: fixed;
+  box-shadow: 0 2px 4px 0 rgba(40, 43, 71, 0.5);
+  background: $white-color;
+}
+
 .main-section {
   background-image: url("../images/main.png");
   background-repeat: no-repeat;
