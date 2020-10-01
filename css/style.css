@@ -149,6 +149,7 @@ p {
 .main-section {
   background-image: url("../images/main.png");
   background-repeat: no-repeat;
+  background-position: center;
   padding: 160px 0px 220px;
 }
 @media screen and (max-width: 768px) {
